@@ -18,6 +18,7 @@ Or install it yourself as:
 
 ## Usage
 Works with any async job processing tool which has delay(options) method implemented for putting jobs in queue
+    
     paperclip_async :attachment_name, options
 
 ## Contributing
